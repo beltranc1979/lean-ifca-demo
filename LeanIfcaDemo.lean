@@ -1,2 +1,2 @@
 import LeanIfcaDemo.Basic
-import LeanIfcaDemo.Basic2
+-- import LeanIfcaDemo.Basic2
