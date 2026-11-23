@@ -1,0 +1,8 @@
+import Mathlib
+
+namespace ComparatorDemo
+
+theorem demo_add_zero (n : Nat) : n + 0 = n := by
+  sorry
+
+end ComparatorDemo
