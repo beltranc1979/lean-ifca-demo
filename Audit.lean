@@ -1,3 +1,5 @@
+module
+
 import LeanIfcaDemo.Basic
 import Lean
 import Lean.Util.CollectAxioms
