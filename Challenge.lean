@@ -1,4 +1,4 @@
-import Mathlib
+import Mathlib.Data.Nat.Prime.Defs
 
 namespace ComparatorDemo
 
